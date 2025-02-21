@@ -61,7 +61,7 @@ input.form-control {
 }
 
 .contactme h2 {
-    font-size: 42px;
+    font-size: 30px;
 }
 
 .contactme {
@@ -118,7 +118,7 @@ a.btn.btn-default.nutdown {
 }
 
 .portfolio h2,.contactme h2 {
-    font-size: 44px;
+    font-size: 25px;
     color: #2d3e50;
 }
 
@@ -253,5 +253,13 @@ h5.prewrap {
     white-space: pre-wrap;
 }
 
+.ImageLarge{
+    height: 525px;
+}
+.ImageLarge1{
+    width: 600px;
+}
 
- 
+.quadai{
+    height: 150px;
+}
